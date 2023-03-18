@@ -1,0 +1,37 @@
+MPLINK 4.30.01, Linker
+Linker Map File - Created Sat Oct 15 12:15:06 2022
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000024
+.config_2007_MANTENIENDOPULSADO.O       code   0x002007    program   0x000002
+.config_2008_MANTENIENDOPULSADO.O       code   0x002008    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000011      
+                            0x002007    0x002008      
+            20 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   Apagar   0x00000e    program     static C:\Users\edgar\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR DE POZA RICA\Septimo Semestre\Sistemas Programables\Segundo Parcial\8 led con boton\ManteniendoPulsado.asm
+                     MAIN   0x000009    program     static C:\Users\edgar\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR DE POZA RICA\Septimo Semestre\Sistemas Programables\Segundo Parcial\8 led con boton\ManteniendoPulsado.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     MAIN   0x000009    program     static C:\Users\edgar\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR DE POZA RICA\Septimo Semestre\Sistemas Programables\Segundo Parcial\8 led con boton\ManteniendoPulsado.asm
+                   Apagar   0x00000e    program     static C:\Users\edgar\OneDrive - INSTITUTO TECNOLOGICO SUPERIOR DE POZA RICA\Septimo Semestre\Sistemas Programables\Segundo Parcial\8 led con boton\ManteniendoPulsado.asm
+
+
